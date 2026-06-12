@@ -53,11 +53,11 @@ Ironfang/
 │   ├── link_3.stl
 │   └── Motor_cover_1.stl
 │
-├── media/                  # Images and videos
-│   ├── A peek inside.jpeg
-│   └── waving.mp4
+#├── media/                  # Images and videos
+#│   ├── A peek inside.jpeg
+#│   └── waving.mp4
 │
-├── .gitignore
+#├── .gitignore
 ├── LICENSE
 └── README.md
 ```
