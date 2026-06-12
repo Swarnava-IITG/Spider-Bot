@@ -119,7 +119,7 @@ Servos are driven directly from ESP32 GPIO pins. Each servo signal wire connects
 ## Author
 
 **Navdeep** **Swarnava** **Musthafa** **Shourya** **Tanishq**— IIT Guwahati  
-GitHub: [github.com/Navdeep2032/Ironfang](https://github.com/Navdeep2032/Ironfang)
+GitHub: [github.com/Swarnava-IITG/Spider-Bot](https://github.com/Swarnava-IITG/Spider-Bot.git)
 
 ---
 
